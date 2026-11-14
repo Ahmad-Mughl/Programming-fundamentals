@@ -1,0 +1,50 @@
+1	Bread			 456g	30Nov22	2Dec22		180
+2	Eggs (dozen)		 588g	30Nov22 10Dec22		256
+3	Milk 1LTR		 1000g	30Nov22	10Mar23		140
+4	Oil 			 1000g	30Nov22	10Apr23		220
+5	Ghee 			 1000g	30Nov22	10Apr23		240
+6	Rice 			 1000g	30Nov22	10Aug23		150
+7	Wheat Flour		 1000g	30Nov22	10June23	230
+8	Besan			 1000g	30Nov22	10June23	300
+9	Baking Flour		 1000g	30Nov22	10June23	320
+10	Daal Chana		 1000g	30Nov22	11Oct23		140
+11	Daal Moong		 1000g	30Nov22	11Oct23		160
+12	Daal Masur		 1000g	30Nov22	11May23		155
+13	Salt			 1000g	30Nov22	10May24		100
+14	Sugar			 1000g	30Nov22	10May24		90
+15	Chat Masala		 46g	30Nov22	10Dec23		80
+16	Biryani Masala		 50g	30Nov22	10Dec23		80
+17	Tikka Masala		 48g	30Nov22	10Dec23		80
+18	Tomato Ketchup 725ML	 744g	30Nov22	10May24		325
+19	Chilli Ketchup 725ML	 745g	30Nov22	10May24		355
+20	Mayonnaise 500ML	 486g	30Nov22	10May24		275
+21	Pickles (7)		 791g	30Nov22	10Sep23		200
+22	Hot Sauce 250ML		 238g	30Nov22	13Feb24		70
+23	Soy Sauce		 280g	30Nov22	13Feb24		70
+24	Vinegar			 243g	30Nov22	13Mar24		70
+25	Elbow Macaroni		 500g	30Nov22	15Dec23		90
+26	Twisted Macaroni	 500g	30Nov22	12Dec23		90
+27	Long Macaroni Pasta	 250g	30Nov22	11Dec23		120
+28	Cheddar Cheese		 150g	30Nov22	10July23	200
+29	Mozzarella Cheese	 150g	30Nov22	10July23	220
+30	Plain Cereal		 282g	30Nov22	12Sep23		270
+31	Fruit Cereal		 284g	30Nov22	12Sep23		270
+31	Chocolate Cereal	 269g	30Nov22	12Sep23		
+33	Corn Soup		 64g	30Nov22	13May23		
+34	Hot n Sour Soup		 62g	30Nov22	13May23		
+35	Chicken Noodles		 66g	30Nov22	10Aug23		
+36	Vegetable Noodles	 69g	30Nov22	10Aug23		
+37	Chicken Breast(5frozen)	 875g	30Nov22	10Feb23		
+38	Chicken Leg pc(8frozen)	 485g	30Nov22	10Feb23		
+39	Chicken Kababs(8frozen)	 450g	30Nov22	10Feb23		
+40	Minced Chicken(frozen)	 500g	30Nov22	10Feb23		
+41	Beef Kababs(8frozen)	 450g	30Nov22	10Feb23		
+42	Minced Beef(frozen)	 500g	30Nov22	10Feb23		
+43	Coca Cola 1.5LTR	 1486g	30Nov22	10May23		
+44	Coca Cola 500ML		 489g	30Nov22	10May23		
+45	Sprite 1.5LTR		 1492g	30Nov22	10May23		
+46	Sprite 500ML		 497g	30Nov22	10May23		
+47	Yogurt			 250g	30Nov22	10Feb23		
+48	Flavored Yougurt	 250g	30Nov22	10Jan23		
+49	Finger Fries (frozen)	 300g	30Nov22	10June23	
+50	Butter Stick		 150g	30Nov22	10July23	
